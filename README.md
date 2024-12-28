@@ -32,7 +32,13 @@ A Micro-SaaS App to Keep Developers and Teams Motivated and On Track"
 
 ## Screenshots
 
+- Run go run main.go in the terminal to start the application.
 ![Screenshot 1](a.png)
+
+- This will say successfully sent message to the channel.
+- It will also send a notification to all the members of the channel.
 ![Screenshot 2](b.png)
+
+- The project channel will also have the message.
 ![Screenshot 3](c.png)
 
